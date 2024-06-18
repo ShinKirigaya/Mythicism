@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mythicism:item/mithril_smithing_template"
+    }
+}

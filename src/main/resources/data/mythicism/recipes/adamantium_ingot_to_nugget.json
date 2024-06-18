@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients":[
+        {
+            "item": "mythicism:adamantium_ingot"
+        }
+    ],
+    "result": {
+        "item": "mythicism:adamantium_nugget",
+        "count": 9
+    }
+}

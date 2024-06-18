@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 200,
+    "experience": 5,
+    "group": "adamantium",
+    "ingredient": {
+        "item": "mythicism:adamantium_ore_chunk"
+    },
+    "result": "mythicism:adamantium_ingot"
+}

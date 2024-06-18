@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "mythicism:orichalcum_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicism:orichalcum_block"
+    }
+}

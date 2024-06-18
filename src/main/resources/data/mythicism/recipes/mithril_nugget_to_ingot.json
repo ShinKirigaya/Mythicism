@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "mythicism:mithril_nugget"
+        }
+    },
+    "result": {
+        "item": "mythicism:mithril_ingot"
+    }
+}

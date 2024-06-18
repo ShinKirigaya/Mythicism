@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients":[
+        {
+            "item": "mythicism:adamantium_block"
+        }
+    ],
+    "result": {
+        "item": "mythicism:adamantium_ingot",
+        "count": 9
+    }
+}
